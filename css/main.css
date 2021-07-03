@@ -1,0 +1,31 @@
+.list-ul {
+    list-style-type: none;
+
+   
+}
+.items-one {
+    border: 1px solid gray;
+  padding: 10px;
+border-radius: 10px;
+}
+
+.videos-box{
+  justify-content: space-between;
+}
+.img-class {
+  margin-right: 10px;
+}
+.img-classs {
+  margin-right: 10px;
+}
+.item {
+  list-style-type: none;
+}
+.items-two{
+
+  color: blue;
+  border: none;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 5px;
+}
